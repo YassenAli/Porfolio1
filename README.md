@@ -3,20 +3,28 @@
 ![Porfolio.png](https://github.com/YassenAli/Porfolio1/blob/main/Porfolio.png)
 
 ## Description
-Welcome to my Portfolio project! This portfolio showcases my skills, projects, and achievements. Whether you're a recruiter, fellow developer, or just curious, feel free to explore.
+This portfolio website showcases my skills, projects, and contact information. It is designed to be responsive and user-friendly, highlighting my work as a web developer.
 
-## Installation
-1. Clone this repository.
-2. Install any necessary dependencies (if applicable).
-3. Run the project locally using vs code or webstorm.
+## Features
+- **Responsive Design**: The website is built using Bootstrap to ensure it looks great on all devices.
+- **Skill Showcase**: A dedicated section to display my technical skills and competencies.
+- **Project Gallery**: A collection of my best work with descriptions and images.
+- **Contact Information**: Easy access to my contact details for potential clients or employers.
 
-## Directory Structure
-- `indes.html/`: Contains the source code of html page that shown in website.
-- `images/`: Store any images or fonts.
-- `styles/`: Contains the source code of css files that shown the style of website and contain bootstrap files.
+## File Structure
+- `index.html`: The main HTML file for the website.
+- `styles/`: This folder contains:
+  - `style.css`: The custom CSS file for additional styling.
+  - Bootstrap files: For responsive design and layout.
+- `images/`: This folder contains all the images used in the website.
 
-## Contributing
-Contributions are welcome! Please follow our contribution guidelines.
+## How to Use
+1. Open `index.html` in your web browser to view the portfolio website.
+2. Navigate through the sections to learn more about my skills and projects.
 
 ## Live Demo
-View the live demo of this project here: [Weather](https://yassenali.github.io/Weather/)
+You can view the live demo of this project here: []()
+
+## Acknowledgments
+- Bootstrap for the responsive framework.
+- All projects and images showcased are my own work.
